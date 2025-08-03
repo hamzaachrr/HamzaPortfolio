@@ -20,10 +20,10 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Saad Pasta",
-  title: "Hi all, I'm Saad",
+  username: "Hamza",
+  title: "Hi all, I'm Hamza",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "A passionate Data & BI Engineer 🚀 with hands-on experience in Big Data architectures, AWS cloud services, SQL development, and interactive reporting with Power BI. Skilled at designing scalable ETL pipelines, optimizing databases, and turning complex data into actionable insights. Always exploring new tools and frameworks to push the boundaries of data-driven decision-making."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
